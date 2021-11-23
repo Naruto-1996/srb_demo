@@ -1,8 +1,13 @@
 ### srb_demo 尚融宝项目介绍
 
+项目架构
+
+![](https://cdn.jsdelivr.net/gh/Naruto-1996/picture/images/20211123112254.png)
+
 ##
 
 [哔哩哔哩视频地址](https://www.bilibili.com/video/BV1VV411n7nR?p=274&spm_id_from=pageDriver)
+[视频中的github仓库](https://github.com/Jiangw2020/loan)
 
 ### 1、技术栈
 * SpringBoot
