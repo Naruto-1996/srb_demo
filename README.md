@@ -24,8 +24,9 @@
 ### 3、环境
 
 java-> 1.8
-springBoot-> 2.3.4
+springBoot-> v2.3.4
 springCloud-> Hoxton.SR8
+mysql-> v5.7.27
 node-> v16.3.0
 nacos-> v2.0.3
 redis-> v5.0.5
